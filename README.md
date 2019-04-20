@@ -1,2 +1,2 @@
 # LAB-7
-I2C
+Interfacing I2C with Simulink.
